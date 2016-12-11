@@ -5,7 +5,7 @@ It is built in objective-C and does not use any third part library or framework.
 
 ## Author
 
-<img src="https://goo.gl/photos/syjPg2vSUemt4wqGA" width="20%">
+<img src="https://lh3.googleusercontent.com/WWbIBlqK11v2FbeCl5X3ViQA49hb3OGEj5t_aRcQ1ZDyrAVQLdnrnHzgXk45tvTDD8pkW1RbMHvRI9YonRotvBjT1qFrh61C1sjuElV4b9fgXHaoIrvyY47pmXHI1ufuDSBa-TMUJ_OfI7H_6L2tmwROLTSS7JcyK-aS4KQiqNi-Kd8CNSHt_0oh2aTaT1t9IpdR7lHUCWTuVRyKxaUXQYEKLTM6AUmiRYwQxypvB749YMTalX8iVb4qQMqfWJbfH8hzgxcvnoBL9is_WSTRjQXqvLj33a519JJsflvY9fgFYCXFvP55U4fO3aIsL3cquOsptfYX5KKiBvoUm3bekVJrlSSt3cBleo1tiOFfp7BnaZ6GAKtzI4SZO1Ways6S_MLacWvaOrcL0Dhbv6c1Lt8Ry4G2lF3ZdghOKS1Rha2_kQF7ATDrNP_f-oE8pJ_MlGKT5y8v6C0ghEFzUBFpaZA7jQcPFPyBWxfQOmQn72ZbZ6TlatTxcBTMjoE9FLyqkkWF0WJ0cUxyjiliWmBujU-7Ml003zz90cd1v4uA-6LRzV8Z8S9C1eS2kx2dw-AFg9JNFhla0FPcbpIzRSx47MuUd_8R19bFZmfaIVWXhIjvE4fs9AU=w958-h1702-no" width="20%">
 
 
 <a href="http://www.nicolastrutet.com/">TRUTET Nicolas</a>
